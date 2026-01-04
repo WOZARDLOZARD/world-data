@@ -394,7 +394,8 @@
         "population": 5638700,
         "dem": 23,
         "timezone": "Asia/Singapore",
-        "modification_date": "2025-07-23"
+        "modification_date": "2025-07-23",
+        "label_pos": "top"
       }
     },
     {
@@ -1254,7 +1255,8 @@
         "population": 1095014,
         "dem": 10,
         "timezone": "Asia/Seoul",
-        "modification_date": "2025-09-30"
+        "modification_date": "2025-09-30",
+        "label_pos": "top"
       }
     },
     {
@@ -1805,7 +1807,8 @@
         "population": 1538262,
         "dem": 1,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2024-12-29"
+        "modification_date": "2024-12-29",
+        "label_pos": "right"
       }
     },
     {
@@ -1849,7 +1852,8 @@
         "population": 1645352,
         "dem": 2306,
         "timezone": "America/Mexico_City",
-        "modification_date": "2025-07-31"
+        "modification_date": "2025-07-31",
+        "label_pos": "top"
       }
     },
     {
@@ -2409,7 +2413,8 @@
         "population": 3343903,
         "dem": 15,
         "timezone": "Asia/Seoul",
-        "modification_date": "2025-09-30"
+        "modification_date": "2025-09-30",
+        "label_pos": "right"
       }
     },
     {
@@ -4077,7 +4082,8 @@
         "population": 1324854,
         "dem": 16,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2025-02-18"
+        "modification_date": "2025-02-18",
+        "label_pos": "top"
       }
     },
     {
@@ -4592,7 +4598,8 @@
         "population": 1061752,
         "dem": 19,
         "timezone": "Asia/Seoul",
-        "modification_date": "2025-09-30"
+        "modification_date": "2025-09-30",
+        "label_pos": "top"
       }
     },
     {
@@ -5195,7 +5202,8 @@
         "population": 12294193,
         "dem": 2240,
         "timezone": "America/Mexico_City",
-        "modification_date": "2024-03-26"
+        "modification_date": "2024-03-26",
+        "label_pos": "right"
       }
     },
     {
@@ -5372,7 +5380,8 @@
         "population": 8053663,
         "dem": 10,
         "timezone": "Asia/Bangkok",
-        "modification_date": "2025-07-29"
+        "modification_date": "2025-07-29",
+        "label_pos": "top"
       }
     },
     {
@@ -5438,7 +5447,8 @@
         "population": 1856642,
         "dem": 26,
         "timezone": "Asia/Taipei",
-        "modification_date": "2025-11-06"
+        "modification_date": "2025-11-06",
+        "label_pos": "top"
       }
     },
     {
@@ -6561,7 +6571,8 @@
         "population": 1273715,
         "dem": 4,
         "timezone": "Asia/Manila",
-        "modification_date": "2025-04-23"
+        "modification_date": "2025-04-23",
+        "label_pos": "top"
       }
     },
     {
@@ -7384,7 +7395,8 @@
         "population": 1463723,
         "dem": 50,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2022-10-24"
+        "modification_date": "2022-10-24",
+        "label_pos": "top"
       }
     },
     {
@@ -8000,7 +8012,8 @@
         "population": 10349312,
         "dem": 38,
         "timezone": "Asia/Seoul",
-        "modification_date": "2024-12-01"
+        "modification_date": "2024-12-01",
+        "label_pos": "right"
       }
     },
     {
@@ -8418,7 +8431,8 @@
         "population": 1800000,
         "dem": 15,
         "timezone": "Asia/Dubai",
-        "modification_date": "2025-11-13"
+        "modification_date": "2025-11-13",
+        "label_pos": "top"
       }
     },
     {
@@ -8990,7 +9004,8 @@
         "population": 7871900,
         "dem": 5,
         "timezone": "Asia/Taipei",
-        "modification_date": "2025-02-24"
+        "modification_date": "2025-02-24",
+        "label_pos": "top"
       }
     },
     {
@@ -9652,7 +9667,8 @@
         "population": 1272235,
         "dem": 6,
         "timezone": "Asia/Ho_Chi_Minh",
-        "modification_date": "2025-07-29"
+        "modification_date": "2025-07-29",
+        "label_pos": "top"
       }
     },
     {
@@ -10378,7 +10394,8 @@
         "population": 2753862,
         "dem": 4,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2024-09-05"
+        "modification_date": "2024-09-05",
+        "label_pos": "right"
       }
     },
     {
@@ -11623,7 +11640,8 @@
         "population": 9733276,
         "dem": 44,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2025-07-22"
+        "modification_date": "2025-07-22",
+        "label_pos": "right"
       }
     },
     {
