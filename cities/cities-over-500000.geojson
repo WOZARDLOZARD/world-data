@@ -11,25 +11,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "3489297",
         "name": "New Kingston",
         "ascii_name": "New Kingston",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "JM",
         "cou_name_en": "Jamaica",
-        "country_code_2": null,
-        "admin1_code": "08",
-        "admin2_code": "15017",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 583958,
-        "elevation": null,
         "dem": 99,
         "timezone": "America/Jamaica",
-        "modification_date": "2019-02-27",
-        "label_en": "Jamaica"
+        "modification_date": "2019-02-27"
       }
     },
     {
@@ -922,25 +913,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "12492662",
         "name": "Mianzhu, Deyang, Sichuan",
         "ascii_name": "Mianzhu, Deyang, Sichuan",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLL",
         "country_code": "CN",
         "cou_name_en": "China",
-        "country_code_2": null,
-        "admin1_code": "32",
-        "admin2_code": "5106",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 510000,
-        "elevation": null,
         "dem": 599,
         "timezone": "Asia/Shanghai",
-        "modification_date": "2022-07-11",
-        "label_en": "China"
+        "modification_date": "2022-07-11"
       }
     },
     {
@@ -4033,25 +4015,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "7874116",
         "name": "Santo Domingo Oeste",
         "ascii_name": "Santo Domingo Oeste",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "DO",
         "cou_name_en": "Dominican Republic",
-        "country_code_2": null,
-        "admin1_code": "37",
-        "admin2_code": "3202",
-        "admin3_code": 320201,
-        "admin4_code": "32020101",
         "population": 701269,
-        "elevation": null,
         "dem": 58,
         "timezone": "America/Santo_Domingo",
-        "modification_date": "2016-06-05",
-        "label_en": "Dominican Republic"
+        "modification_date": "2016-06-05"
       }
     },
     {
@@ -5362,25 +5335,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "7602670",
         "name": "Zhu Cheng City",
         "ascii_name": "Zhu Cheng City",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLA3",
         "country_code": "CN",
         "cou_name_en": "China",
-        "country_code_2": null,
-        "admin1_code": "25",
-        "admin2_code": "3707",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 1000000,
-        "elevation": null,
         "dem": 67,
         "timezone": "Asia/Shanghai",
-        "modification_date": "2021-09-20",
-        "label_en": "China"
+        "modification_date": "2021-09-20"
       }
     },
     {
@@ -5393,25 +5357,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "3397838",
         "name": "Jaboatão",
         "ascii_name": "Jaboatao",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLL",
         "country_code": "BR",
         "cou_name_en": "Brazil",
-        "country_code_2": null,
-        "admin1_code": "30",
-        "admin2_code": "2607901",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 702621,
-        "elevation": null,
         "dem": 88,
         "timezone": "America/Recife",
-        "modification_date": "2012-08-03",
-        "label_en": "Brazil"
+        "modification_date": "2012-08-03"
       }
     },
     {
@@ -6040,25 +5995,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "13308620",
         "name": "Bao'an",
         "ascii_name": "Bao'an",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLA3",
         "country_code": "CN",
         "cou_name_en": "China",
-        "country_code_2": null,
-        "admin1_code": "30",
-        "admin2_code": null,
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 4476554,
-        "elevation": null,
         "dem": -9999,
         "timezone": "Asia/Shanghai",
-        "modification_date": "2025-05-08",
-        "label_en": "China"
+        "modification_date": "2025-05-08"
       }
     },
     {
@@ -6071,25 +6017,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "13405906",
         "name": "Luohu District",
         "ascii_name": "Luohu District",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "CN",
         "cou_name_en": "China",
-        "country_code_2": null,
-        "admin1_code": "30",
-        "admin2_code": "4403",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 1143801,
-        "elevation": null,
         "dem": 2,
         "timezone": "Asia/Shanghai",
-        "modification_date": "2025-07-12",
-        "label_en": "China"
+        "modification_date": "2025-07-12"
       }
     },
     {
@@ -6960,25 +6897,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "4645421",
         "name": "New South Memphis",
         "ascii_name": "New South Memphis",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "US",
         "cou_name_en": "United States",
-        "country_code_2": null,
-        "admin1_code": "TN",
-        "admin2_code": "157",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 641608,
-        "elevation": "79",
         "dem": 79,
         "timezone": "America/Chicago",
-        "modification_date": "2012-07-25",
-        "label_en": "United States"
+        "modification_date": "2012-07-25"
       }
     },
     {
@@ -8355,25 +8283,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "13118225",
         "name": "Bukit Rahman Putra",
         "ascii_name": "Bukit Rahman Putra",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "MY",
         "cou_name_en": "Malaysia",
-        "country_code_2": null,
-        "admin1_code": "12",
-        "admin2_code": "1707",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 607000,
-        "elevation": null,
         "dem": 76,
         "timezone": "Asia/Kuala_Lumpur",
-        "modification_date": "2024-10-24",
-        "label_en": "Malaysia"
+        "modification_date": "2024-10-24"
       }
     },
     {
@@ -8804,25 +8723,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "268743",
         "name": "Ra’s Bayrūt",
         "ascii_name": "Ra's Bayrut",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "LB",
         "cou_name_en": "Lebanon",
-        "country_code_2": null,
-        "admin1_code": "04",
-        "admin2_code": null,
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 1251739,
-        "elevation": null,
         "dem": 35,
         "timezone": "Asia/Beirut",
-        "modification_date": "2006-01-17",
-        "label_en": "Lebanon"
+        "modification_date": "2006-01-17"
       }
     },
     {
@@ -9803,25 +9713,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "12165956",
         "name": "Kallakurichi",
         "ascii_name": "Kallakurichi",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLA2",
         "country_code": "IN",
         "cou_name_en": "India",
-        "country_code_2": null,
-        "admin1_code": "25",
-        "admin2_code": "729",
-        "admin3_code": 5734,
-        "admin4_code": null,
         "population": 1682687,
-        "elevation": null,
         "dem": 124,
         "timezone": "Asia/Kolkata",
-        "modification_date": "2024-01-06",
-        "label_en": "India"
+        "modification_date": "2024-01-06"
       }
     },
     {
@@ -13134,25 +13035,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "12069922",
         "name": "Rohini",
         "ascii_name": "Rohini",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "IN",
         "cou_name_en": "India",
-        "country_code_2": null,
-        "admin1_code": "07",
-        "admin2_code": "091",
-        "admin3_code": 430,
-        "admin4_code": null,
         "population": 860000,
-        "elevation": null,
         "dem": 216,
         "timezone": "Asia/Kolkata",
-        "modification_date": "2024-01-06",
-        "label_en": "India"
+        "modification_date": "2024-01-06"
       }
     },
     {
@@ -14441,25 +14333,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "7283386",
         "name": "Changshu",
         "ascii_name": "Changshu",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLA3",
         "country_code": "CN",
         "cou_name_en": "China",
-        "country_code_2": null,
-        "admin1_code": "04",
-        "admin2_code": "3205",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 1677050,
-        "elevation": null,
         "dem": 9,
         "timezone": "Asia/Shanghai",
-        "modification_date": "2022-04-01",
-        "label_en": "China"
+        "modification_date": "2022-04-01"
       }
     },
     {
@@ -15440,25 +15323,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "12501153",
         "name": "Kanayannur",
         "ascii_name": "Kanayannur",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "IN",
         "cou_name_en": "India",
-        "country_code_2": null,
-        "admin1_code": "13",
-        "admin2_code": "595",
-        "admin3_code": 5660,
-        "admin4_code": null,
         "population": 851406,
-        "elevation": null,
         "dem": 1,
         "timezone": "Asia/Kolkata",
-        "modification_date": "2024-01-06",
-        "label_en": "India"
+        "modification_date": "2024-01-06"
       }
     },
     {
@@ -15999,25 +15873,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "7627067",
         "name": "Bahçelievler",
         "ascii_name": "Bahcelievler",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "TR",
         "cou_name_en": "Turkey",
-        "country_code_2": null,
-        "admin1_code": "34",
-        "admin2_code": "7732457",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 576799,
-        "elevation": null,
         "dem": 73,
         "timezone": "Europe/Istanbul",
-        "modification_date": "2025-05-11",
-        "label_en": "Turkey"
+        "modification_date": "2025-05-11"
       }
     },
     {
@@ -17702,25 +17567,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "10943053",
         "name": "Nansana",
         "ascii_name": "Nansana",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "UG",
         "cou_name_en": "Uganda",
-        "country_code_2": null,
-        "admin1_code": "C",
-        "admin2_code": "96",
-        "admin3_code": 7732385,
-        "admin4_code": "8658059",
         "population": 532800,
-        "elevation": null,
         "dem": 1218,
         "timezone": "Africa/Kampala",
-        "modification_date": "2024-12-02",
-        "label_en": "Uganda"
+        "modification_date": "2024-12-02"
       }
     },
     {
@@ -18767,25 +18623,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "12382296",
         "name": "Thuận An",
         "ascii_name": "Thuan An",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLA2",
         "country_code": "VN",
         "cou_name_en": "Viet Nam",
-        "country_code_2": null,
-        "admin1_code": "79",
-        "admin2_code": "725",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 588616,
-        "elevation": null,
         "dem": 24,
         "timezone": "Asia/Ho_Chi_Minh",
-        "modification_date": "2025-07-29",
-        "label_en": "Viet Nam"
+        "modification_date": "2025-07-29"
       }
     },
     {
@@ -20470,25 +20317,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "11395976",
         "name": "Mirpur Model Thana",
         "ascii_name": "Mirpur Model Thana",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "BD",
         "cou_name_en": "Bangladesh",
-        "country_code_2": null,
-        "admin1_code": "81",
-        "admin2_code": "3026",
-        "admin3_code": 302640,
-        "admin4_code": "30264007",
         "population": 546503,
-        "elevation": null,
         "dem": 24,
         "timezone": "Asia/Dhaka",
-        "modification_date": "2024-04-08",
-        "label_en": "Bangladesh"
+        "modification_date": "2024-04-08"
       }
     },
     {
@@ -22943,25 +22781,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "7696679",
         "name": "Pallabi",
         "ascii_name": "Pallabi",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "BD",
         "cou_name_en": "Bangladesh",
-        "country_code_2": null,
-        "admin1_code": "81",
-        "admin2_code": "3026",
-        "admin3_code": 302640,
-        "admin4_code": "30264002",
         "population": 597574,
-        "elevation": null,
         "dem": 14,
         "timezone": "Asia/Dhaka",
-        "modification_date": "2024-04-08",
-        "label_en": "Bangladesh"
+        "modification_date": "2024-04-08"
       }
     },
     {
@@ -23436,25 +23265,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "6943660",
         "name": "Shivaji Nagar",
         "ascii_name": "Shivaji Nagar",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPLX",
         "country_code": "IN",
         "cou_name_en": "India",
-        "country_code_2": null,
-        "admin1_code": "16",
-        "admin2_code": "521",
-        "admin3_code": 4194,
-        "admin4_code": null,
         "population": 1000000,
-        "elevation": "1000",
         "dem": 559,
         "timezone": "Asia/Kolkata",
-        "modification_date": "2024-01-06",
-        "label_en": "India"
+        "modification_date": "2024-01-06"
       }
     },
     {
@@ -24435,25 +24255,16 @@
         ]
       },
       "properties": {
-        "geoname_id": "738377",
         "name": "Umraniye",
         "ascii_name": "Umraniye",
-        "alternate_names": null,
         "feature_class": "P",
         "feature_code": "PPL",
         "country_code": "TR",
         "cou_name_en": "Turkey",
-        "country_code_2": null,
-        "admin1_code": "34",
-        "admin2_code": "7732588",
-        "admin3_code": null,
-        "admin4_code": null,
         "population": 573265,
-        "elevation": null,
         "dem": 136,
         "timezone": "Europe/Istanbul",
-        "modification_date": "2025-05-11",
-        "label_en": "Turkey"
+        "modification_date": "2025-05-11"
       }
     },
     {
