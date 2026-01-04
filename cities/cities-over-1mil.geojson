@@ -746,7 +746,8 @@
         "population": 1916100,
         "dem": 40,
         "timezone": "Asia/Beirut",
-        "modification_date": "2024-09-24"
+        "modification_date": "2024-09-24",
+        "label_pos": "top"
       }
     },
     {
@@ -1142,7 +1143,8 @@
         "population": 1385108,
         "dem": 19,
         "timezone": "America/New_York",
-        "modification_date": "2024-11-21"
+        "modification_date": "2024-11-21",
+        "label_pos": "top"
       }
     },
     {
@@ -1648,7 +1650,8 @@
         "population": 1619470,
         "dem": 547,
         "timezone": "America/Caracas",
-        "modification_date": "2025-05-15"
+        "modification_date": "2025-05-15",
+        "label_pos": "top"
       }
     },
     {
@@ -2317,7 +2320,8 @@
         "population": 1404452,
         "dem": 20,
         "timezone": "America/Los_Angeles",
-        "modification_date": "2025-06-25"
+        "modification_date": "2025-06-25",
+        "label_pos": "top"
       }
     },
     {
@@ -5323,7 +5327,8 @@
         "population": 1476491,
         "dem": 1565,
         "timezone": "America/Mexico_City",
-        "modification_date": "2025-06-12"
+        "modification_date": "2025-06-12",
+        "label_pos": "top"
       }
     },
     {
@@ -6467,7 +6472,8 @@
         "population": 1169577,
         "dem": 774,
         "timezone": "America/Sao_Paulo",
-        "modification_date": "2017-12-12"
+        "modification_date": "2017-12-12",
+        "label_pos": "top"
       }
     },
     {
@@ -9226,7 +9232,8 @@
         "population": 9606916,
         "dem": 23,
         "timezone": "Africa/Cairo",
-        "modification_date": "2024-09-05"
+        "modification_date": "2024-09-05",
+        "label_pos": "right"
       }
     },
     {
@@ -9424,7 +9431,8 @@
         "population": 1240289,
         "dem": 26,
         "timezone": "Africa/Cairo",
-        "modification_date": "2023-11-29"
+        "modification_date": "2023-11-29",
+        "label_pos": "top"
       }
     },
     {
@@ -10458,7 +10466,8 @@
         "population": 1160000,
         "dem": 64,
         "timezone": "Africa/Lagos",
-        "modification_date": "2024-01-18"
+        "modification_date": "2024-01-18",
+        "label_pos": "top"
       }
     },
     {
@@ -10810,7 +10819,8 @@
         "population": 1579803,
         "dem": 1806,
         "timezone": "America/Mexico_City",
-        "modification_date": "2025-07-31"
+        "modification_date": "2025-07-31",
+        "label_pos": "top"
       }
     },
     {
@@ -10832,7 +10842,8 @@
         "population": 1326087,
         "dem": 139,
         "timezone": "America/Chicago",
-        "modification_date": "2025-06-25"
+        "modification_date": "2025-06-25",
+        "label_pos": "top"
       }
     },
     {
@@ -11074,7 +11085,8 @@
         "population": 1031554,
         "dem": 686,
         "timezone": "America/Sao_Paulo",
-        "modification_date": "2021-09-19"
+        "modification_date": "2021-09-19",
+        "label_pos": "top"
       }
     },
     {
@@ -11963,7 +11975,8 @@
         "population": 8804190,
         "dem": 57,
         "timezone": "America/New_York",
-        "modification_date": "2025-09-24"
+        "modification_date": "2025-09-24",
+        "label_pos": "right"
       }
     },
     {
