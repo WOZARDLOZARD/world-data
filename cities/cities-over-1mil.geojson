@@ -262,7 +262,8 @@
         "population": 1712945,
         "dem": 6,
         "timezone": "Asia/Manila",
-        "modification_date": "2025-09-24"
+        "modification_date": "2025-09-24",
+        "label_pos": "top"
       }
     },
     {
@@ -1189,7 +1190,8 @@
         "population": 3084270,
         "dem": 49,
         "timezone": "Asia/Manila",
-        "modification_date": "2025-09-24"
+        "modification_date": "2025-09-24",
+        "label_pos": "right"
       }
     },
     {
@@ -2095,7 +2097,8 @@
         "population": 1683000,
         "dem": 228,
         "timezone": "Asia/Baghdad",
-        "modification_date": "2024-02-14"
+        "modification_date": "2024-02-14",
+        "label_pos": "top"
       }
     },
     {
@@ -2458,7 +2461,8 @@
         "population": 1928389,
         "dem": 13,
         "timezone": "Africa/Conakry",
-        "modification_date": "2023-12-20"
+        "modification_date": "2023-12-20",
+        "label_pos": "top"
       }
     },
     {
@@ -3884,7 +3888,8 @@
         "population": 1600000,
         "dem": 13,
         "timezone": "Asia/Manila",
-        "modification_date": "2025-09-16"
+        "modification_date": "2025-09-16",
+        "label_pos": "right"
       }
     },
     {
@@ -4960,7 +4965,8 @@
         "population": 1982000,
         "dem": 284,
         "timezone": "Africa/Brazzaville",
-        "modification_date": "2025-10-31"
+        "modification_date": "2025-10-31",
+        "label_pos": "top"
       }
     },
     {
@@ -6240,7 +6246,8 @@
         "population": 1254837,
         "dem": 70,
         "timezone": "Africa/Maputo",
-        "modification_date": "2024-01-18"
+        "modification_date": "2024-01-18",
+        "label_pos": "top"
       }
     },
     {
@@ -6328,7 +6335,8 @@
         "population": 2112693,
         "dem": 1332,
         "timezone": "Africa/Johannesburg",
-        "modification_date": "2024-12-02"
+        "modification_date": "2024-12-02",
+        "label_pos": "top"
       }
     },
     {
@@ -6638,7 +6646,8 @@
         "population": 1340083,
         "dem": 105,
         "timezone": "Africa/Abidjan",
-        "modification_date": "2022-12-14"
+        "modification_date": "2022-12-14",
+        "label_pos": "top"
       }
     },
     {
@@ -7484,7 +7493,8 @@
         "population": 1326564,
         "dem": 4,
         "timezone": "Asia/Baghdad",
-        "modification_date": "2024-02-14"
+        "modification_date": "2024-02-14",
+        "label_pos": "top"
       }
     },
     {
@@ -7968,7 +7978,8 @@
         "population": 2332176,
         "dem": 23,
         "timezone": "Asia/Tokyo",
-        "modification_date": "2025-10-18"
+        "modification_date": "2025-10-18",
+        "label_pos": "top"
       }
     },
     {
@@ -8299,6 +8310,27 @@
         "population": 2794356,
         "dem": 161,
         "timezone": "America/Toronto",
+        "modification_date": "2025-08-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12359,
+          49.275362
+        ]
+      },
+      "properties": {
+        "name": "Vancouver",
+        "ascii_name": "Vancouver",
+        "feature_class": "P",
+        "feature_code": "PPLA",
+        "country_code": "CA",
+        "cou_name_en": "Canada",
+        "population": 2313328,
+        "timezone": "America/Vancouver",
         "modification_date": "2025-08-04"
       }
     },
@@ -9954,7 +9986,8 @@
         "population": 1612700,
         "dem": 429,
         "timezone": "Asia/Baghdad",
-        "modification_date": "2024-10-11"
+        "modification_date": "2024-10-11",
+        "label_pos": "top"
       }
     },
     {
@@ -10550,7 +10583,8 @@
         "population": 9418183,
         "dem": 1767,
         "timezone": "Africa/Johannesburg",
-        "modification_date": "2025-06-11"
+        "modification_date": "2025-06-11",
+        "label_pos": "right"
       }
     },
     {
