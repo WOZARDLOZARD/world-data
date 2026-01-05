@@ -10053,7 +10053,8 @@
         "population": 7737002,
         "dem": 152,
         "timezone": "America/Lima",
-        "modification_date": "2023-10-25"
+        "modification_date": "2023-10-25",
+        "label_pos": "top"
       }
     },
     {
